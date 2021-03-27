@@ -25,17 +25,32 @@ When first doing the analysis it was discovered that there are corrupted test sc
 - Although the overall passing percentage was affected by the removal of the 9th grade scores for Thomas High School the overall ranking with regards to other schools in the district did not change.
 
 ### Math & Reading Scores by Grade
+- The Math Scores by grade are shown below wih the original scores on the left and the adjusted scores on the right.
 ![alt_text](https://github.com/bweirich/School_District_Analysis/raw/main/Resources/Original_Math_by_Grade.png)
 ![alt_text](https://github.com/bweirich/School_District_Analysis/raw/main/Resources/Math_by_Grade.png)
 
+- The Reading Scores by grade are shown below with the original scores on the left and the adjusted scores on the right
+![alt_text](https://github.com/bweirich/School_District_Analysis/raw/main/Resources/Original_Reading_by_Grade.png)
+![alt_text](https://github.com/bweirich/School_District_Analysis/raw/main/Resources/Reading_by_Grade.png)
+- This shows that the 9th grade scores have been removed for Thomas High School but did not affect the other grades or schools.
+
 ### Scores by School Spending
+- The original summary of the score results based on the Spending Per Student is shown below:
 ![alt_text](https://github.com/bweirich/School_District_Analysis/raw/main/Resources/Original_Spending_Summary.png)
+- The adjusted summary of the score results based on the Spending Per Student is shown below:
 ![alt_text](https://github.com/bweirich/School_District_Analysis/raw/main/Resources/Spending_Summary.png)
+- As seen the results of this analysis was not affected by the removal of 9th grade scores for Thomas High School.
 
 ### Scores by School Size
+- The original summary of the score results based on the Size of the school is shown below:
 ![alt_text](https://github.com/bweirich/School_District_Analysis/raw/main/Resources/Original_Size_Summary.png)
+- The adjusted summary of the score results based on the Size of the school is shown below:
 ![alt_text](https://github.com/bweirich/School_District_Analysis/raw/main/Resources/Size_Summary.png)
+- As seen the results of this analysis was not affected by the removal of 9th grade scores for Thomas High School.
 
 ### Scores by School Type
+- The original summary of the score results based on the Type of school is shown below:
 ![alt_text](https://github.com/bweirich/School_District_Analysis/raw/main/Resources/Original_Type_Summary.png)
+- The adjusted summary of the score resluts based on the Type of school is shown below:
 ![alt_text](https://github.com/bweirich/School_District_Analysis/raw/main/Resources/Type_Summary.png)
+- As seen the results of this analysis was not affected by the removal of 9th grade scores for Thomas High School.
